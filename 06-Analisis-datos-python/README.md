@@ -1,0 +1,3 @@
+# Análisis de datos con Python - Remoto Masivo 2021
+
+Al finalizar el módulo podrás realizar análisis profundos, manipulación, transformación y extracción de información de bases de datos para responder preguntas a problemas reales. Podrás obtener insights y generar múltiples visualizaciones que permitan comunicar diferentes conclusiones sobre la naturaleza y comportamiento de los datos; tomar decisiones inteligentes basadas en data. Además, podrás aplicar modelos de regresión y clasificación con Pandas para estar listo y dar el siguiente paso hacia la aplicación de modelos de Machine Learning.
